@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonDB", "PersonDB\PersonDB.csproj", "{44B421AB-7A4A-4B76-9444-E768E0772BEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44B421AB-7A4A-4B76-9444-E768E0772BEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44B421AB-7A4A-4B76-9444-E768E0772BEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44B421AB-7A4A-4B76-9444-E768E0772BEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44B421AB-7A4A-4B76-9444-E768E0772BEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CA2F2B3-D62D-4A9C-B6DE-ADF7E87121EF}
+	EndGlobalSection
+EndGlobal
